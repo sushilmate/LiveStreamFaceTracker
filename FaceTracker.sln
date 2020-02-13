@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstUWA", "MyFirstUWA\MyFirstUWA.csproj", "{477E10F0-8AD3-4F23-BB18-FF997A4D969E}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FaceTracker", "FaceTracker", "{FEADF23B-9D35-4BB5-B6C0-322396334947}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveStreamFaceTracker", "LiveStreamFaceTracker\LiveStreamFaceTracker.csproj", "{A2E14DA4-93FF-4F5F-89A6-C0385419B642}"
